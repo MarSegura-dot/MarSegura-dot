@@ -2,7 +2,7 @@
 
 # 👋 Hey everyone, I'm Sandra!
 
-## 💻 Welcome to my GitHub universe!
+## 💻 Welcome to my GitHub!
 
 </div>
 
@@ -10,8 +10,6 @@
 - 🧪 **QA Engineer** in the trenches — manual + load testing with JMeter
 - 🤖 Computer-vision projects for **accessibility** (sign-language detection)
 - 🎮 Indie game dev when nobody's looking — *Mr. Bottle* (PyGame)
-- 🌱 Leveling up: **React performance · System design · English C1**
-- 🤝 Open to collaboration on **tech-for-good** projects
 - 📍 Tampico, México → wherever the work matters
 
 <p>
