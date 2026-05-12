@@ -182,12 +182,3 @@ CV model classifying ASL vowels via webcam in real-time.
 </div>
 
 ---
-
-<div align="center">
-
-✨ *"The tools change every six months.  
-The job — figuring out what's worth building — doesn't."* ✨
-
-**⌁ Tampico · México ⌁**
-
-</div>
