@@ -123,15 +123,6 @@ CV model classifying ASL vowels via webcam in real-time.
 
 ---
 
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=MarSegura-dot&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10&no-frame=true" />
-
-</div>
-
----
 
 <div align="center">
 
