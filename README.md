@@ -6,12 +6,6 @@
 
 </div>
 
-- 👩‍💻 Building **full-stack web apps** with real users (PHP/MySQL + Node.js)
-- 🧪 **QA Engineer** in the trenches — manual + load testing with JMeter
-- 🤖 Computer-vision projects for **accessibility** (sign-language detection)
-- 🎮 Indie game dev when nobody's looking — *Mr. Bottle* (PyGame)
-- 📍 Tampico, México → wherever the work matters
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=MarSegura-dot&label=Profile%20Views&color=0e75b6&style=flat" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/MarSegura-dot?label=Followers&style=flat&color=0e75b6" alt="followers"/>
