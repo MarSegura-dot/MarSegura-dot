@@ -21,69 +21,6 @@
 
 <div align="center">
 
-## 🚀 What I'm building right now
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ EnergIA · *In progress*
-LLM-powered tool that reads electricity bills and finds savings.
-
-`Node.js` · `MySQL` · `OpenAI API` · `JMeter`
-
-**[N]** test cases · load-tested @ **[N]** users
-
-[→ Repo (soon)](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 UMED en línea · *Live*
-E-commerce I built solo and ship features for daily.
-
-`PHP` · `MySQL` · `HTML/CSS`
-
-**[N]** orders/mo · **[X]%** conversion
-
-[→ Live site](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤟 Sign-Language Vowel Detection
-CV model classifying ASL vowels via webcam in real-time.
-
-`Python` · `OpenCV` · `NumPy`
-
-**[N]%** accuracy · **<[N] ms** inference
-
-[→ Repo](#) · [→ Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍶 Mr. Bottle
-2D indie game about plastic pollution, hand-drawn art.
-
-`Python` · `PyGame` · `Clip Studio Paint`
-
-**[N]** levels · social mechanic
-
-[→ Repo](#)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
 ## 📊 My GitHub stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarSegura-dot&theme=github_dark" />
